@@ -14,7 +14,7 @@ Go to Android developer tool and click on windows -> preference -> Android -> Bu
 
 After creation, a key is generated. Copy it, we will need it in our project.
 
-open the AndroidManifest of the GmapExample project.
+Open the AndroidManifest of the GmapExample project.
 
 Search for this lines of code and put your generated key in the android:value :
 
