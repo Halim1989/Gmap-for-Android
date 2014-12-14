@@ -15,5 +15,7 @@ Go to Android developer tool and click on windows -> preference -> Android -> Bu
 After creation, a key is generated. Copy it, we will need it in our project.
 
 open the AndroidManifest of the GmapExample project.
-Search for this lines of code 
-<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="Put here the generated android key" />
+test
+test
+tet
+test
